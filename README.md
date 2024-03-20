@@ -10,6 +10,14 @@ Artikel berikut menjadi referensi dalam mengerjakan Tugas 2 - Pembelajaran Mesin
 ## Cara menjalankan Program SVM (SVC dan SVR)
 1. Klasifikasi (SVC) Loan Prediction
 <p>Dataset yang digunakan berasal dari kaggle : https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction/data</p>
-
+- Clone github ini menggunakan perintah git clone
+- Lalu import library yang dibutuhkan yang telah diletakkan pada bagian import library pada file klasifikasi.ipynb
+- Lalu jalankan ipynbnya dari paling atas menggunakan keyboard klik Shift + Enter atau klik Run pada sel perbarisnya vscode
+ 
 2. Regresi (SVR) Forest Fires Area
 <p>Dataset yang digunakan berasal dari kaggle : https://www.kaggle.com/datasets/sumitm004/forest-fire-area</p>
+- Clone github ini menggunakan perintah git clone
+- Lalu import library yang dibutuhkan yang telah diletakkan pada bagian import library pada file regresi.ipynb
+- Lalu jalankan ipynbnya dari paling atas menggunakan keyboard klik Shift + Enter atau klik Run pada sel perbarisnya vscode
+
+Editor yang digunakan VSCODE
