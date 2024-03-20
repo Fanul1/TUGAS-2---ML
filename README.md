@@ -7,4 +7,9 @@ Artikel berikut menjadi referensi dalam mengerjakan Tugas 2 - Pembelajaran Mesin
 <p>Nama: Fanul Nastia</p>
 <p></p>NPM : 2108107010029</p>
 
-## Cara menjalankan Program
+## Cara menjalankan Program SVM (SVC dan SVR)
+1. Klasifikasi (SVC) Loan Prediction
+<p>Dataset yang digunakan berasal dari kaggle : https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction/data</p>
+
+2. Regresi (SVR) Forest Fires Area
+<p>Dataset yang digunakan berasal dari kaggle : https://www.kaggle.com/datasets/sumitm004/forest-fire-area</p>
