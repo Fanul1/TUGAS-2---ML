@@ -11,13 +11,13 @@ Artikel berikut menjadi referensi dalam mengerjakan Tugas 2 - Pembelajaran Mesin
 1. Klasifikasi (SVC) Loan Prediction
    <p>Dataset yang digunakan berasal dari kaggle : https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction/data</p>
    <p>1. Clone github ini menggunakan perintah git clone.</p>
-   <p>2. Lalu import library yang dibutuhkan yang telah diletakkan pada bagian import library pada file klasifikasi.ipynb.</p>
+   <p>2. Lalu import library yang dibutuhkan yang telah diletakkan pada bagian import library pada file Klasifikasi.ipynb.</p>
    <p>3. Lalu jalankan ipynbnya dari paling atas menggunakan keyboard klik Shift + Enter atau klik Run pada sel perbarisnya vscode</p>
     
 2. Regresi (SVR) Forest Fires Area
    <p>Dataset yang digunakan berasal dari kaggle : https://www.kaggle.com/datasets/sumitm004/forest-fire-area</p>
    <p>1. Clone github ini menggunakan perintah git clone</p>
-   <p>2. Lalu import library yang dibutuhkan yang telah diletakkan pada bagian import library pada file regresi.ipynb</p>
+   <p>2. Lalu import library yang dibutuhkan yang telah diletakkan pada bagian import library pada file Regresi.ipynb</p>
    <p>3. Lalu jalankan ipynbnya dari paling atas menggunakan keyboard klik Shift + Enter atau klik Run pada sel perbarisnya vscode</p>
 
 Editor yang digunakan VSCODE
